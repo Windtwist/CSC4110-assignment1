@@ -1,6 +1,6 @@
 # CSC4110-assignment1
 
-##Luka Cvetko
+## Luka Cvetko
 
 gz6205 - access ID
 
