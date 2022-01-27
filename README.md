@@ -2,7 +2,7 @@
 
 ## Luka Cvetko
 
-gz6205 - access ID
+### gz6205
 
 
 Exercise 1 of CSC4110 Software Engineering 
